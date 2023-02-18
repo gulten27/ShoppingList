@@ -1,4 +1,4 @@
-package com.gultendogan.shoppinglist
+package com.gultendogan.shoppinglist.data.db.entities
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
